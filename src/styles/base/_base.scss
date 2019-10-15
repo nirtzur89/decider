@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700,800,900&display=swap');
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: 'Exo', sans-serif;
+	font-size: $m-size;
+	background: $grey-all;
+	color: $all-text;
+}
